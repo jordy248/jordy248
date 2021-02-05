@@ -2,11 +2,13 @@
 
 I started dabbling with my first webpage in 2002, and I've been working in digital marketing (primarily for service-minded organizations) for almost a decade.
 
-I'm currently working on the Online Engagement and Fundraising team at the Smithsonian 🏰 and pursuing an MS in Analytics from Georgia Tech. 🐝
-
 📬 Contact: [jordy@jordynelson.io](mailto:jordy@jordynelson.io)
 
 👤 Pronouns: He/Him
+
+💼 Working on the Online Engagement and Fundraising team at the Smithsonian 🏰
+
+🎓 Pursuing MS in Analytics from Georgia Tech 🐝
 
 📘 Currently Reading: _[Record of a Spaceborn Few](https://www.otherscribbles.com/#/spacebornfew/)_ and _[Interactive Data Visualization for the Web](https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/)_
 
@@ -28,3 +30,20 @@ I'm currently working on the Online Engagement and Fundraising team at the Smith
 ![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat-square/&logo=GraphQL&logoColor=white&color=6AE9A0 "GraphQL")
 ![](https://img.shields.io/badge/Tools-Google_Tag_Manager-informational?style=flat-square/&logo=Google-Tag-Manager&logoColor=white&color=6AE9A0 "Google Tag Manager")
 ![](https://img.shields.io/badge/Tools-HTML_Email-informational?style=flat-square/&logo=Mail.Ru&logoColor=white&color=F23969&label=🤠%20%20%20%20🤪 "HTML Email")
+
+<!--
+**jordy248/jordy248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+![](https://komarev.com/ghpvc/?username=jordy248&color=093D8D)
