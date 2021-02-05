@@ -22,6 +22,7 @@ I'm currently working on the Online Engagement and Fundraising team at the Smith
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat-square/&logo=Heroku&logoColor=white&color=FFC69F "Heroku")
 ![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat-square/&logo=Netlify&logoColor=white&color=FFC69F "Netlify")
 ![](https://img.shields.io/badge/Tools-Tidyverse-informational?style=flat-square/&logo=RStudio&logoColor=white&color=6AE9A0 "Tidyverse")
+![](https://img.shields.io/badge/Tools-Shiny-informational?style=flat-square/&logo=RStudio&logoColor=white&color=6AE9A0 "Shiny")
 ![](https://img.shields.io/badge/Tools-Selenium-informational?style=flat-square/&logo=Selenium&logoColor=white&color=6AE9A0 "Selenium")
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square/&logo=Docker&logoColor=white&color=6AE9A0 "Docker")
 ![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat-square/&logo=GraphQL&logoColor=white&color=6AE9A0 "GraphQL")
