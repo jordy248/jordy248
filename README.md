@@ -11,9 +11,11 @@ I'm currently working on the Online Engagement and Fundraising team at the Smith
 
 ## I enjoy working with the following tools 🧰
 
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=A400D2 "Python")
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=A400D2 "Python")
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=A400D2 "JavaScript")
-![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=Vue.JS&logoColor=white&color=A400D2 "VueJS")
-![](https://img.shields.io/badge/Tools-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=00D2A1 "Selenium")
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=00D2A1 "Docker")
+![](https://img.shields.io/badge/Code-R-informational?style=flat-square&logo=R&logoColor=white&color=A400D2 "Python")
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=A400D2 "Python")
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=A400D2 "JavaScript")
+![](https://img.shields.io/badge/Framework-VueJS-informational?style=flat-square&logo=Vue.JS&logoColor=white&color=A400D2 "VueJS")
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat-square&logo=Flask&logoColor=white&color=A400D2 "Flask")
+![](https://img.shields.io/badge/Tools-Selenium-informational?style=flat-square&logo=Selenium&logoColor=white&color=00D2A1 "Selenium")
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=Docker&logoColor=white&color=00D2A1 "Docker")
+![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat-square&logo=GraphQL&logoColor=white&color=00D2A1 "GraphQL")
