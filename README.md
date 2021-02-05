@@ -46,4 +46,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=jordy248&color=093D8D)
+<details>
+  <summary>Extras</summary>
+  <img src="https://komarev.com/ghpvc/?username=jordy248&color=093D8D" alt="profile views" />
+</details>
