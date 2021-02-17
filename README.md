@@ -10,6 +10,8 @@ I started dabbling with my first webpage in 2002, and I've been working in digit
 
 🎓 Pursuing MS in Analytics from Georgia Tech 🐝
 
+🌱 Currently Learning: d3.js and React
+
 📘 Currently Reading: _[Record of a Spaceborn Few](https://www.otherscribbles.com/#/spacebornfew/)_ and _[Interactive Data Visualization for the Web](https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/)_
 
 🎧 Currently Listening: [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB?si=hvWeJvh1Sa-E54hHwbRWeQ) and [How To Save a Planet](https://open.spotify.com/show/1KzrasExlM5dgMYwgFHns6?si=peWxcoXMQM2vgmkV9hVy8w)
