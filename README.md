@@ -10,7 +10,7 @@ I started dabbling with my first webpage in 2002, and I've been working in digit
 
 🎓 Pursuing MS in Analytics from Georgia Tech 🐝
 
-🌱 Currently Learning: NLP and graph analytics
+🌱 Currently Learning: Svelte, NLP, and graph analytics
 
 📘 Currently Reading: _[The Galaxy, and the Ground Within](https://www.otherscribbles.com/the-galaxy-and-the-ground-within)_ and _[The Practitioner’s Guide to Graph Data](https://learning.oreilly.com/library/view/the-practitioners-guide/9781492044062/)_
 
