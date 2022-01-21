@@ -6,7 +6,7 @@ I started dabbling with my first webpage in 2002, and I've been working in digit
 
 👤 Pronouns: He/Him
 
-💼 Working in Marketing Enablement (testing \& analytics) at T. Rowe Price
+<!-- 💼 Working in Marketing Enablement (testing \& analytics) at T. Rowe Price -->
 
 🎓 Pursuing MS in Analytics from Georgia Tech 🐝
 
