@@ -1,10 +1,25 @@
 # Hi, I'm Jordy 👋
 
-I started dabbling with my first webpage in 2002, and I've been working in digital marketing (primarily for service-minded organizations) for almost a decade.
+<!--
+**jordy248/jordy248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+I started dabbling with my first webpage in 2002, and I've been working in digital marketing (optimization and analytics) for almost a decade.
+
+👤 Pronouns: He/Him
 
 📬 Contact: [jordy@jordynelson.io](mailto:jordy@jordynelson.io)
 
-👤 Pronouns: He/Him
+📍 Baltimore, MD 🦀
 
 <!-- 💼 Working in Marketing Enablement (testing \& analytics) at T. Rowe Price -->
 
@@ -38,26 +53,11 @@ I started dabbling with my first webpage in 2002, and I've been working in digit
 ![](https://img.shields.io/badge/Tools-scipy-informational?style=flat-square/&logo=scipy&logoColor=white&color=6AE9A0 "SciPy")
 ![](https://img.shields.io/badge/Tools-Scikit_Learn-informational?style=flat-square/&logo=scikitlearn&logoColor=white&color=6AE9A0 "Scikit-learn")
 ![](https://img.shields.io/badge/Tools-Selenium-informational?style=flat-square/&logo=Selenium&logoColor=white&color=6AE9A0 "Selenium")
+![](https://img.shields.io/badge/Tools-Puppeteer-informational?style=flat-square/&logo=Puppeteer&logoColor=white&color=6AE9A0 "Puppeteer")
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square/&logo=Docker&logoColor=white&color=6AE9A0 "Docker")
 ![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat-square/&logo=GraphQL&logoColor=white&color=6AE9A0 "GraphQL")
 ![](https://img.shields.io/badge/Tools-Google_Tag_Manager-informational?style=flat-square/&logo=Google-Tag-Manager&logoColor=white&color=6AE9A0 "Google Tag Manager")
-![](https://img.shields.io/badge/Tools-Adobe_Experience_Cloud-informational?style=flat-square/&logo=adobe&logoColor=white&color=6AE9A0 "Adobe Experience Cloud")
 ![](https://img.shields.io/badge/Tools-HTML_Email-informational?style=flat-square/&logo=Mail.Ru&logoColor=white&color=F23969&label=🤠%20%20%20%20🤪 "HTML Email")
-
-<!--
-**jordy248/jordy248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <details>
   <summary>Extras</summary>
