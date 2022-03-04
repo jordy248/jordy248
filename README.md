@@ -39,6 +39,7 @@ I started dabbling with my first webpage in 2002, and I've been working in digit
 ![](https://img.shields.io/badge/Code-R-informational?style=flat-square/&logo=R&logoColor=white&color=C2CAFD "R")
 ![](https://img.shields.io/badge/Framework-VueJS-informational?style=flat-square/&logo=Vue.JS&logoColor=white&color=093D8D "VueJS")
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat-square/&logo=react&logoColor=white&color=093D8D "ReactJS")
+![](https://img.shields.io/badge/Framework-Svelte-informational?style=flat-square/&logo=svelte&logoColor=white&color=093D8D "Svelte")
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat-square/&logo=Flask&logoColor=white&color=093D8D "Flask")
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square/&logo=amazonaws&logoColor=white&color=FFC69F "AWS")
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat-square/&logo=Heroku&logoColor=white&color=FFC69F "Heroku")
